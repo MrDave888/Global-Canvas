@@ -1,0 +1,9 @@
+{
+  "name": "Global Canvas",
+  "version": "0.0.1",
+  "description": "A place where people have a set amount of space that they can draw in.",
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  }
+}
